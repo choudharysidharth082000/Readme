@@ -1,6 +1,6 @@
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Sidharth+Choudhary;Software+Developer;can+turn+caffeine+into+code&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Sidharth+Choudhary;&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
- 💫 About Me:
+ <h1>💫 About Me: </h1>
 I am a prefinal-year Computer Science undergraduate with a passion for software development and data structures and algorithms. I have extensive experience with coding challenges on platforms such as LeetCode and CodeChef, and I am constantly learning and exploring new technologies such as blockchain, Web3, and the Metaverse.<br><br>I am currently employed as a software developer at Posist Technologies, where I work on developing innovative solutions for our clients using cutting-edge technologies.
 
 
