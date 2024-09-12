@@ -12,7 +12,7 @@ I am a prefinal-year Computer Science undergraduate with a passion for software 
 
 
 ### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme}](https://api.thecatapi.com/v1/images/search" width="512px"/>
+<img src="https://preview.redd.it/else-else-else-else-v0-bl4olp4wqzld1.jpeg?auto=webp&s=fa5b85d4624c763e77caa01c856d20e837e1245f" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=choudharysidharth082000&icon=0&color=0)](https://visitcount.itsvg.in)
